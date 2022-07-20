@@ -2,7 +2,7 @@
 
 ## Demo
 
-Livestream [Showcase](https://fiyer.app/demo/demo.mp4) using Livepeer Studio API key in Fiyer App.
+Livestream [Showcase](https://fiyer.app/assets/video/demo.mp4) using Livepeer Studio API key in Fiyer App.
 
 ## Web3
 Integrated with Solana. Send & receive $SOL when broadcasting.
