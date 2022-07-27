@@ -4,6 +4,13 @@
 
 Livestream [Showcase](https://fiyer.app/assets/video/demo.mp4) using Livepeer Studio API key in Fiyer App.
 
+## Live Demo APK
+
+Demo App [Download APK](https://fiyer.app/assets/apk/app-release.apk).
+```bash
+Fiyer doesn’t collect any personal identifiable informations or private keys to your wallet.
+```
+
 ## Web3
 Integrated with Solana. Send & receive $SOL when broadcasting.
 
