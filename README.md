@@ -2,7 +2,7 @@
 
 ## Demo
 
-Livestream [Showcase](https://fiyer.app/assets/video/screens.png) using Livepeer Studio API key in Fiyer App.
+Livestream [Showcase](https://fiyer.app/assets/video/screens.png) using Livepeer Studio API in Fiyer App.
 
 ## Live Demo APK
 
